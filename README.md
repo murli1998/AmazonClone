@@ -5,7 +5,7 @@ Welcome to the Amazon Homepage Clone - a meticulously crafted replica of the wor
 
 # Key Features:
 
-Authentic Design: 
+* Authentic Design: 
 The clone faithfully replicates the layout, design elements, and visual aesthetics of Amazon's homepage, ensuring that users feel right at home as soon as they land on the page.
 
 Dynamic Content: 
