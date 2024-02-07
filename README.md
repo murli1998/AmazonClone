@@ -1,8 +1,6 @@
 # Amazon Homepage Clone: Bringing the E-Commerce Giant to Your Browser
 Developed a cloned website of Amazon using HTML and CSS.
 
-Amazon Homepage Clone: Bringing the E-Commerce Giant to Your Browser
-
 Welcome to the Amazon Homepage Clone - a meticulously crafted replica of the world-renowned e-commerce platform's homepage, built entirely using HTML and CSS. This project aims to recreate the familiar interface and functionality of Amazon's homepage, providing users with a familiar browsing experience right in their web browser.
 
 # Key Features:
